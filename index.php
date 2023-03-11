@@ -1,1 +1,3 @@
-test
+<?php
+include 'Asu.php';
+?>anjays
